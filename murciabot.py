@@ -3,7 +3,7 @@ import time
 
 r = praw.Reddit(user_agent = "MuricaMurciaBoot v0.1")
 print("Logging in...")
-r.login("MuricaMurciaBot", "one2three4five")
+r.login("MuricaMurciaBot", "************")
 
 cache = []
 
