@@ -20,3 +20,4 @@ while True:
             print("Reply succesful!")
             cache.append(comment.id)
     print("Comment loop finished, time to sleep.")
+    time.sleep(10)
